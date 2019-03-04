@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Songer_Frontend</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+</resources>
